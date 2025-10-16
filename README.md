@@ -1,4 +1,11 @@
-# CalcuLIST - Be a planner, list the problem, and learn together.
+# CalcuLIST 
+
+<div align="center">
+
+<img src="https://github.com/ShizueSeira/CalcuLIST/raw/main/CalcuLIST%20Logo.png" alt="CalcuLIST Logo" width="300" />
+
+### Be a planner, list the problem, and learn together.
+</div>
 
 ## 📌 Project Overview
 
